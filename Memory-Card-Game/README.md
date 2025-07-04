@@ -2,17 +2,14 @@
 
 A classic memory matching game built with HTML, CSS, and JavaScript. Features include theme switching (classic & emoji), dark mode, responsive design, timer, and move counter.
 
-## 🎮 Live Demo
-
-**[Play the Game Live](..)**
 
 ## 📸 Screenshots
 
 ### Light Mode - Classic Theme
-![Light Mode Classic Theme](./assets/screenshots/Screenshot%202025-07-04%20230547.png)
+![Light Mode Classic Theme](./assets/screenshots/light-them.png)
 
 ### Dark Mode - Emoji Theme  
-![Dark Mode Emoji Theme](./assets/screenshots/Screenshot%202025-07-04%20230131.png)
+![Dark Mode Emoji Theme](./assets/screenshots/dark-them.png)
 
 ## ✨ Features
 
